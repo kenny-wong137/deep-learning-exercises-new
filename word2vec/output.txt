@@ -1,0 +1,900 @@
+<unk>                : distance = 0.000
+light                : distance = 1.068
+love                 : distance = 1.102
+present              : distance = 1.137
+set                  : distance = 1.150
+close                : distance = 1.161
+hug                  : distance = 1.167
+school               : distance = 1.172
+
+,                    : distance = 0.000
+;                    : distance = 0.617
+.                    : distance = 0.718
+!                    : distance = 0.752
+?                    : distance = 0.762
+:                    : distance = 0.804
+(                    : distance = 0.858
+erect                : distance = 1.148
+
+.                    : distance = 0.000
+;                    : distance = 0.692
+,                    : distance = 0.718
+!                    : distance = 0.730
+:                    : distance = 0.803
+?                    : distance = 0.804
+(                    : distance = 1.045
+erect                : distance = 1.079
+
+the                  : distance = 0.000
+our                  : distance = 0.864
+his                  : distance = 0.868
+my                   : distance = 0.885
+your                 : distance = 0.943
+a                    : distance = 0.955
+their                : distance = 0.966
+its                  : distance = 0.980
+
+i                    : distance = 0.000
+he                   : distance = 0.631
+she                  : distance = 0.674
+we                   : distance = 0.747
+they                 : distance = 0.863
+you                  : distance = 0.967
+who                  : distance = 1.060
+gummidges            : distance = 1.105
+
+and                  : distance = 0.000
+or                   : distance = 0.778
+nor                  : distance = 0.874
+but                  : distance = 0.971
+until                : distance = 0.980
+than                 : distance = 1.024
+lounging             : distance = 1.051
+for                  : distance = 1.062
+
+to                   : distance = 0.000
+from                 : distance = 1.004
+against              : distance = 1.016
+on                   : distance = 1.019
+by                   : distance = 1.026
+into                 : distance = 1.059
+towards              : distance = 1.067
+for                  : distance = 1.070
+
+of                   : distance = 0.000
+in                   : distance = 0.938
+with                 : distance = 0.989
+for                  : distance = 1.006
+by                   : distance = 1.026
+on                   : distance = 1.032
+against              : distance = 1.042
+upon                 : distance = 1.051
+
+a                    : distance = 0.000
+the                  : distance = 0.955
+another              : distance = 0.985
+some                 : distance = 1.038
+roderick             : distance = 1.054
+extraordinarily      : distance = 1.055
+every                : distance = 1.058
+monotonous           : distance = 1.065
+
+-                    : distance = 0.000
+crowns               : distance = 0.895
+ciphering            : distance = 1.059
+nests                : distance = 1.101
+legged               : distance = 1.103
+ticket               : distance = 1.107
+chop                 : distance = 1.110
+merchants            : distance = 1.114
+
+in                   : distance = 0.000
+into                 : distance = 0.780
+on                   : distance = 0.792
+with                 : distance = 0.839
+by                   : distance = 0.845
+from                 : distance = 0.876
+of                   : distance = 0.938
+against              : distance = 0.976
+
+was                  : distance = 0.000
+is                   : distance = 0.670
+were                 : distance = 0.800
+had                  : distance = 0.891
+has                  : distance = 0.965
+looked               : distance = 0.972
+became               : distance = 0.996
+appeared             : distance = 0.998
+
+that                 : distance = 0.000
+this                 : distance = 0.850
+what                 : distance = 0.897
+which                : distance = 0.912
+where                : distance = 1.021
+how                  : distance = 1.036
+whom                 : distance = 1.053
+until                : distance = 1.069
+
+my                   : distance = 0.000
+your                 : distance = 0.587
+his                  : distance = 0.626
+our                  : distance = 0.735
+her                  : distance = 0.864
+the                  : distance = 0.885
+chillips             : distance = 0.895
+their                : distance = 0.906
+
+it                   : distance = 0.000
+he                   : distance = 0.965
+she                  : distance = 0.977
+there                : distance = 0.978
+this                 : distance = 0.983
+them                 : distance = 0.994
+us                   : distance = 1.050
+you                  : distance = 1.081
+
+her                  : distance = 0.000
+his                  : distance = 0.706
+him                  : distance = 0.811
+me                   : distance = 0.814
+my                   : distance = 0.864
+your                 : distance = 0.917
+them                 : distance = 0.920
+us                   : distance = 0.958
+
+me                   : distance = 0.000
+him                  : distance = 0.634
+us                   : distance = 0.645
+them                 : distance = 0.748
+her                  : distance = 0.814
+herself              : distance = 0.962
+himself              : distance = 1.017
+myself               : distance = 1.033
+
+he                   : distance = 0.000
+she                  : distance = 0.418
+i                    : distance = 0.631
+they                 : distance = 0.803
+we                   : distance = 0.814
+it                   : distance = 0.965
+who                  : distance = 1.016
+there                : distance = 1.071
+
+you                  : distance = 0.000
+i                    : distance = 0.967
+they                 : distance = 0.986
+anybody              : distance = 1.043
+him                  : distance = 1.046
+she                  : distance = 1.055
+us                   : distance = 1.059
+it                   : distance = 1.081
+
+;                    : distance = 0.000
+,                    : distance = 0.617
+.                    : distance = 0.692
+:                    : distance = 0.881
+!                    : distance = 0.900
+?                    : distance = 0.912
+(                    : distance = 0.921
+deferred             : distance = 1.135
+
+with                 : distance = 0.000
+from                 : distance = 0.801
+in                   : distance = 0.839
+against              : distance = 0.926
+by                   : distance = 0.935
+for                  : distance = 0.948
+into                 : distance = 0.952
+upon                 : distance = 0.966
+
+as                   : distance = 0.000
+than                 : distance = 0.925
+how                  : distance = 0.947
+if                   : distance = 1.053
+until                : distance = 1.062
+maybe                : distance = 1.068
+when                 : distance = 1.076
+and                  : distance = 1.087
+
+had                  : distance = 0.000
+has                  : distance = 0.732
+have                 : distance = 0.832
+was                  : distance = 0.891
+wronged              : distance = 0.984
+felt                 : distance = 1.003
+were                 : distance = 1.050
+actually             : distance = 1.051
+
+said                 : distance = 0.000
+says                 : distance = 0.782
+returned             : distance = 0.812
+cried                : distance = 0.830
+observed             : distance = 0.901
+replied              : distance = 0.933
+answered             : distance = 0.972
+retorted             : distance = 0.984
+
+his                  : distance = 0.000
+my                   : distance = 0.626
+your                 : distance = 0.700
+her                  : distance = 0.706
+their                : distance = 0.814
+the                  : distance = 0.868
+our                  : distance = 0.890
+chillips             : distance = 0.957
+
+!                    : distance = 0.000
+?                    : distance = 0.607
+.                    : distance = 0.730
+,                    : distance = 0.752
+:                    : distance = 0.874
+;                    : distance = 0.900
+(                    : distance = 1.121
+till                 : distance = 1.170
+
+she                  : distance = 0.000
+he                   : distance = 0.418
+i                    : distance = 0.674
+we                   : distance = 0.879
+they                 : distance = 0.919
+who                  : distance = 0.959
+it                   : distance = 0.977
+traddles             : distance = 1.046
+
+at                   : distance = 0.000
+under                : distance = 0.957
+on                   : distance = 0.987
+towards              : distance = 0.995
+in                   : distance = 1.023
+concerning           : distance = 1.045
+about                : distance = 1.054
+from                 : distance = 1.069
+
+for                  : distance = 0.000
+without              : distance = 0.855
+with                 : distance = 0.948
+by                   : distance = 0.964
+or                   : distance = 0.986
+upon                 : distance = 0.993
+from                 : distance = 1.000
+of                   : distance = 1.006
+
+mr                   : distance = 0.000
+mrs                  : distance = 0.593
+c                    : distance = 0.878
+j                    : distance = 0.898
+st                   : distance = 0.917
+william              : distance = 1.024
+bedtime              : distance = 1.032
+m                    : distance = 1.036
+
+have                 : distance = 0.000
+had                  : distance = 0.832
+be                   : distance = 0.863
+make                 : distance = 1.038
+do                   : distance = 1.040
+am                   : distance = 1.043
+having               : distance = 1.048
+were                 : distance = 1.051
+
+on                   : distance = 0.000
+in                   : distance = 0.792
+into                 : distance = 0.812
+from                 : distance = 0.888
+upon                 : distance = 0.896
+by                   : distance = 0.934
+up                   : distance = 0.956
+about                : distance = 0.961
+
+but                  : distance = 0.000
+or                   : distance = 0.934
+and                  : distance = 0.971
+though               : distance = 1.019
+perhaps              : distance = 1.044
+for                  : distance = 1.054
+likewise             : distance = 1.069
+except               : distance = 1.076
+
+not                  : distance = 0.000
+always               : distance = 1.013
+only                 : distance = 1.018
+just                 : distance = 1.026
+mostly               : distance = 1.059
+never                : distance = 1.081
+hardly               : distance = 1.084
+almost               : distance = 1.109
+
+be                   : distance = 0.000
+have                 : distance = 0.863
+slip                 : distance = 0.949
+come                 : distance = 0.993
+say                  : distance = 0.998
+maintain             : distance = 1.025
+get                  : distance = 1.037
+go                   : distance = 1.037
+
+?                    : distance = 0.000
+!                    : distance = 0.607
+,                    : distance = 0.762
+.                    : distance = 0.804
+:                    : distance = 0.888
+;                    : distance = 0.912
+(                    : distance = 1.070
+pretends             : distance = 1.159
+
+is                   : distance = 0.000
+was                  : distance = 0.670
+has                  : distance = 0.811
+were                 : distance = 0.985
+would                : distance = 1.020
+seemed               : distance = 1.044
+does                 : distance = 1.046
+aint                 : distance = 1.054
+
+so                   : distance = 0.000
+too                  : distance = 0.860
+very                 : distance = 0.919
+how                  : distance = 1.017
+extremely            : distance = 1.029
+pretty               : distance = 1.075
+perfectly            : distance = 1.079
+more                 : distance = 1.097
+
+him                  : distance = 0.000
+me                   : distance = 0.634
+us                   : distance = 0.672
+them                 : distance = 0.714
+her                  : distance = 0.811
+myself               : distance = 0.965
+ourselves            : distance = 0.983
+himself              : distance = 0.990
+
+when                 : distance = 0.000
+where                : distance = 0.914
+until                : distance = 0.921
+if                   : distance = 0.939
+after                : distance = 0.959
+before               : distance = 0.987
+whenever             : distance = 1.055
+because              : distance = 1.062
+
+if                   : distance = 0.000
+when                 : distance = 0.939
+because              : distance = 0.982
+though               : distance = 1.006
+whether              : distance = 1.020
+as                   : distance = 1.053
+for                  : distance = 1.062
+wherever             : distance = 1.064
+
+all                  : distance = 0.000
+both                 : distance = 0.893
+neither              : distance = 1.066
+last                 : distance = 1.082
+anything             : distance = 1.083
+parting              : distance = 1.099
+consider             : distance = 1.113
+every                : distance = 1.130
+
+we                   : distance = 0.000
+they                 : distance = 0.649
+i                    : distance = 0.747
+he                   : distance = 0.814
+she                  : distance = 0.879
+hed                  : distance = 1.077
+gulpidge             : distance = 1.079
+you                  : distance = 1.084
+
+by                   : distance = 0.000
+in                   : distance = 0.845
+before               : distance = 0.918
+without              : distance = 0.922
+on                   : distance = 0.934
+with                 : distance = 0.935
+after                : distance = 0.946
+into                 : distance = 0.953
+
+this                 : distance = 0.000
+that                 : distance = 0.850
+traddless            : distance = 0.956
+it                   : distance = 0.983
+every                : distance = 1.022
+there                : distance = 1.041
+the                  : distance = 1.043
+what                 : distance = 1.067
+
+which                : distance = 0.000
+whom                 : distance = 0.812
+that                 : distance = 0.912
+who                  : distance = 0.991
+where                : distance = 1.070
+this                 : distance = 1.110
+biting               : distance = 1.118
+until                : distance = 1.131
+
+what                 : distance = 0.000
+that                 : distance = 0.897
+how                  : distance = 0.911
+because              : distance = 1.061
+where                : distance = 1.062
+this                 : distance = 1.067
+why                  : distance = 1.101
+as                   : distance = 1.106
+
+were                 : distance = 0.000
+are                  : distance = 0.618
+was                  : distance = 0.800
+is                   : distance = 0.985
+went                 : distance = 0.988
+seemed               : distance = 1.046
+had                  : distance = 1.050
+have                 : distance = 1.051
+
+no                   : distance = 0.000
+any                  : distance = 0.999
+twopence             : distance = 1.082
+oh                   : distance = 1.091
+ha                   : distance = 1.092
+yes                  : distance = 1.102
+absurd               : distance = 1.114
+oncommon             : distance = 1.127
+
+been                 : distance = 0.000
+taken                : distance = 0.925
+wronged              : distance = 1.042
+had                  : distance = 1.061
+laboured             : distance = 1.061
+shrunk               : distance = 1.083
+playing              : distance = 1.085
+remained             : distance = 1.108
+
+out                  : distance = 0.000
+along                : distance = 0.959
+down                 : distance = 0.982
+up                   : distance = 0.997
+spoken               : distance = 0.998
+rid                  : distance = 1.019
+back                 : distance = 1.047
+away                 : distance = 1.065
+
+there                : distance = 0.000
+here                 : distance = 0.937
+it                   : distance = 0.978
+this                 : distance = 1.041
+he                   : distance = 1.071
+after                : distance = 1.072
+she                  : distance = 1.088
+mine                 : distance = 1.108
+
+little               : distance = 0.000
+young                : distance = 1.059
+painful              : distance = 1.083
+prostrate            : distance = 1.088
+warning              : distance = 1.094
+reproachful          : distance = 1.096
+stout                : distance = 1.098
+long                 : distance = 1.111
+
+from                 : distance = 0.000
+with                 : distance = 0.801
+into                 : distance = 0.854
+in                   : distance = 0.876
+upon                 : distance = 0.885
+on                   : distance = 0.888
+against              : distance = 0.893
+through              : distance = 0.934
+
+or                   : distance = 0.000
+and                  : distance = 0.778
+but                  : distance = 0.934
+for                  : distance = 0.986
+than                 : distance = 0.996
+oclock               : distance = 1.016
+except               : distance = 1.066
+nor                  : distance = 1.101
+
+very                 : distance = 0.000
+too                  : distance = 0.896
+extremely            : distance = 0.916
+so                   : distance = 0.919
+pretty               : distance = 0.929
+perfectly            : distance = 1.003
+capital              : distance = 1.008
+extraordinarily      : distance = 1.022
+
+would                : distance = 0.000
+could                : distance = 0.602
+should               : distance = 0.658
+will                 : distance = 0.733
+must                 : distance = 0.763
+shall                : distance = 0.833
+can                  : distance = 0.833
+didnt                : distance = 0.853
+
+an                   : distance = 0.000
+some                 : distance = 0.933
+considerable         : distance = 1.007
+the                  : distance = 1.010
+any                  : distance = 1.028
+mary                 : distance = 1.096
+princes              : distance = 1.102
+roderick             : distance = 1.110
+
+one                  : distance = 0.000
+every                : distance = 1.103
+such                 : distance = 1.114
+five                 : distance = 1.120
+scraps               : distance = 1.123
+something            : distance = 1.125
+sharp                : distance = 1.132
+result               : distance = 1.132
+
+do                   : distance = 0.000
+know                 : distance = 0.907
+did                  : distance = 0.922
+think                : distance = 0.966
+can                  : distance = 0.983
+ask                  : distance = 0.989
+say                  : distance = 1.003
+take                 : distance = 1.003
+
+up                   : distance = 0.000
+down                 : distance = 0.794
+off                  : distance = 0.898
+away                 : distance = 0.903
+back                 : distance = 0.928
+on                   : distance = 0.956
+out                  : distance = 0.997
+into                 : distance = 1.001
+
+could                : distance = 0.000
+would                : distance = 0.602
+should               : distance = 0.683
+can                  : distance = 0.750
+did                  : distance = 0.780
+shall                : distance = 0.794
+must                 : distance = 0.838
+will                 : distance = 0.860
+
+am                   : distance = 0.000
+ought                : distance = 1.013
+suppose              : distance = 1.037
+felt                 : distance = 1.041
+have                 : distance = 1.043
+was                  : distance = 1.050
+havent               : distance = 1.054
+deferred             : distance = 1.079
+
+upon                 : distance = 0.000
+from                 : distance = 0.885
+on                   : distance = 0.896
+with                 : distance = 0.966
+against              : distance = 0.973
+for                  : distance = 0.993
+among                : distance = 1.017
+into                 : distance = 1.029
+
+know                 : distance = 0.000
+think                : distance = 0.858
+say                  : distance = 0.895
+do                   : distance = 0.907
+knew                 : distance = 0.928
+see                  : distance = 0.940
+saw                  : distance = 0.957
+ask                  : distance = 0.972
+
+more                 : distance = 0.000
+less                 : distance = 0.916
+better               : distance = 0.979
+innocent             : distance = 1.057
+so                   : distance = 1.097
+most                 : distance = 1.124
+dreadfully           : distance = 1.137
+fair                 : distance = 1.141
+
+micawber             : distance = 0.000
+dick                 : distance = 0.901
+copperfull           : distance = 0.981
+agnes                : distance = 0.986
+larkins              : distance = 0.994
+gal                  : distance = 1.000
+peggotty             : distance = 1.025
+wickfield            : distance = 1.027
+
+aunt                 : distance = 0.000
+mother               : distance = 0.870
+wife                 : distance = 1.022
+breast               : distance = 1.065
+darling              : distance = 1.073
+host                 : distance = 1.076
+peggotty             : distance = 1.087
+annie                : distance = 1.089
+
+into                 : distance = 0.000
+in                   : distance = 0.780
+on                   : distance = 0.812
+from                 : distance = 0.854
+against              : distance = 0.908
+through              : distance = 0.933
+with                 : distance = 0.952
+by                   : distance = 0.953
+
+they                 : distance = 0.000
+we                   : distance = 0.649
+he                   : distance = 0.803
+i                    : distance = 0.863
+she                  : distance = 0.919
+you                  : distance = 0.986
+hed                  : distance = 1.044
+gulpidge             : distance = 1.100
+
+now                  : distance = 0.000
+then                 : distance = 0.841
+sometimes            : distance = 0.946
+since                : distance = 1.113
+yes                  : distance = 1.121
+perhaps              : distance = 1.122
+yet                  : distance = 1.128
+once                 : distance = 1.130
+
+are                  : distance = 0.000
+were                 : distance = 0.618
+was                  : distance = 1.027
+is                   : distance = 1.070
+weighed              : distance = 1.072
+am                   : distance = 1.080
+aint                 : distance = 1.080
+have                 : distance = 1.083
+
+miss                 : distance = 0.000
+those                : distance = 1.007
+our                  : distance = 1.045
+these                : distance = 1.056
+masr                 : distance = 1.059
+missis               : distance = 1.070
+sleeping             : distance = 1.082
+the                  : distance = 1.084
+
+peggotty             : distance = 0.000
+agnes                : distance = 0.903
+traddles             : distance = 0.919
+uriah                : distance = 0.952
+steerforth           : distance = 0.955
+ham                  : distance = 0.968
+joram                : distance = 0.968
+mrs                  : distance = 1.015
+
+who                  : distance = 0.000
+she                  : distance = 0.959
+which                : distance = 0.991
+he                   : distance = 1.016
+necessarily          : distance = 1.019
+i                    : distance = 1.060
+hopkins              : distance = 1.089
+else                 : distance = 1.095
+
+mrs                  : distance = 0.000
+mr                   : distance = 0.593
+c                    : distance = 0.973
+j                    : distance = 0.975
+bedtime              : distance = 0.982
+st                   : distance = 1.014
+peggotty             : distance = 1.015
+gummidges            : distance = 1.032
+
+time                 : distance = 0.000
+night                : distance = 0.990
+day                  : distance = 1.026
+man                  : distance = 1.027
+occasion             : distance = 1.028
+period               : distance = 1.042
+obligation           : distance = 1.042
+letter               : distance = 1.056
+
+any                  : distance = 0.000
+some                 : distance = 0.914
+no                   : distance = 0.999
+an                   : distance = 1.028
+hams                 : distance = 1.093
+exceeding            : distance = 1.095
+extraordinary        : distance = 1.099
+undergone            : distance = 1.104
+
+some                 : distance = 0.000
+any                  : distance = 0.914
+an                   : distance = 0.933
+another              : distance = 1.008
+two                  : distance = 1.028
+a                    : distance = 1.038
+the                  : distance = 1.044
+every                : distance = 1.051
+
+never                : distance = 0.000
+always               : distance = 0.964
+ever                 : distance = 0.967
+certainly            : distance = 0.988
+can                  : distance = 1.026
+really               : distance = 1.026
+neither              : distance = 1.048
+had                  : distance = 1.080
+
+about                : distance = 0.000
+on                   : distance = 0.961
+round                : distance = 0.972
+towards              : distance = 1.015
+for                  : distance = 1.036
+from                 : distance = 1.046
+in                   : distance = 1.048
+at                   : distance = 1.054
+
+should               : distance = 0.000
+would                : distance = 0.658
+could                : distance = 0.683
+shall                : distance = 0.732
+will                 : distance = 0.763
+can                  : distance = 0.771
+didnt                : distance = 0.814
+must                 : distance = 0.822
+
+much                 : distance = 0.000
+great                : distance = 1.070
+far                  : distance = 1.078
+longer               : distance = 1.084
+often                : distance = 1.086
+strongly             : distance = 1.092
+severe               : distance = 1.097
+well                 : distance = 1.100
+
+old                  : distance = 0.000
+poor                 : distance = 0.981
+young                : distance = 1.062
+accidental           : distance = 1.067
+empty                : distance = 1.071
+same                 : distance = 1.077
+carriers             : distance = 1.104
+rosy                 : distance = 1.106
+
+them                 : distance = 0.000
+us                   : distance = 0.619
+him                  : distance = 0.714
+me                   : distance = 0.748
+her                  : distance = 0.920
+it                   : distance = 0.994
+em                   : distance = 1.013
+st                   : distance = 1.037
+
+like                 : distance = 0.000
+desired              : distance = 1.100
+stronger             : distance = 1.117
+tempting             : distance = 1.120
+amazing              : distance = 1.121
+mention              : distance = 1.123
+in                   : distance = 1.126
+express              : distance = 1.134
+
+made                 : distance = 0.000
+done                 : distance = 1.026
+give                 : distance = 1.030
+got                  : distance = 1.037
+gave                 : distance = 1.041
+desired              : distance = 1.048
+bought               : distance = 1.054
+took                 : distance = 1.057
+
+then                 : distance = 0.000
+now                  : distance = 0.841
+suddenly             : distance = 1.042
+sometimes            : distance = 1.049
+joram                : distance = 1.054
+dont                 : distance = 1.087
+perhaps              : distance = 1.095
+still                : distance = 1.101
+
+how                  : distance = 0.000
+what                 : distance = 0.911
+as                   : distance = 0.947
+why                  : distance = 0.952
+maybe                : distance = 1.007
+so                   : distance = 1.017
+that                 : distance = 1.036
+where                : distance = 1.059
+
+down                 : distance = 0.000
+up                   : distance = 0.794
+away                 : distance = 0.891
+out                  : distance = 0.982
+back                 : distance = 1.018
+round                : distance = 1.083
+locked               : distance = 1.084
+into                 : distance = 1.087
+
+say                  : distance = 0.000
+think                : distance = 0.841
+know                 : distance = 0.895
+remember             : distance = 0.983
+knew                 : distance = 0.993
+be                   : distance = 0.998
+do                   : distance = 1.003
+find                 : distance = 1.005
+
+our                  : distance = 0.000
+my                   : distance = 0.735
+their                : distance = 0.856
+your                 : distance = 0.857
+the                  : distance = 0.864
+his                  : distance = 0.890
+chillips             : distance = 0.939
+its                  : distance = 0.979
+
+before               : distance = 0.000
+by                   : distance = 0.918
+after                : distance = 0.953
+when                 : distance = 0.987
+afore                : distance = 1.000
+for                  : distance = 1.050
+without              : distance = 1.052
+beyond               : distance = 1.068
+
+think                : distance = 0.000
+say                  : distance = 0.841
+know                 : distance = 0.858
+recollect            : distance = 0.940
+do                   : distance = 0.966
+write                : distance = 0.970
+suppose              : distance = 0.975
+believe              : distance = 0.978
+
+than                 : distance = 0.000
+as                   : distance = 0.925
+or                   : distance = 0.996
+and                  : distance = 1.024
+for                  : distance = 1.075
+meekly               : distance = 1.105
+encouraged           : distance = 1.110
+if                   : distance = 1.128
+
+good                 : distance = 0.000
+long                 : distance = 1.026
+true                 : distance = 1.043
+pleasant             : distance = 1.053
+deeply               : distance = 1.081
+slight               : distance = 1.090
+delightful           : distance = 1.094
+dear                 : distance = 1.095
+
+your                 : distance = 0.000
+my                   : distance = 0.587
+his                  : distance = 0.700
+our                  : distance = 0.857
+their                : distance = 0.894
+her                  : distance = 0.917
+the                  : distance = 0.943
+davids               : distance = 1.004
+
+come                 : distance = 0.000
+go                   : distance = 0.861
+be                   : distance = 0.993
+came                 : distance = 0.999
+arrived              : distance = 1.029
+slip                 : distance = 1.042
+brought              : distance = 1.054
+gone                 : distance = 1.059
+
+dear                 : distance = 0.000
+sons                 : distance = 1.026
+dearest              : distance = 1.066
+blessed              : distance = 1.077
+orphan               : distance = 1.082
+poor                 : distance = 1.082
+undisciplined        : distance = 1.082
+benignant            : distance = 1.093
+
+well                 : distance = 0.000
+often                : distance = 1.001
+ill                  : distance = 1.055
+papa                 : distance = 1.056
+soon                 : distance = 1.056
+neat                 : distance = 1.083
+far                  : distance = 1.098
+much                 : distance = 1.100
+
