@@ -131,6 +131,7 @@ def generate(model, burn_in_values,
 def display_predictions(real_values, predicted_values, demo_size, num_burn_in_steps,
                         num_steps_in_seq, save_path_prefix):    
     for sample_id in range(demo_size):
+        plt.figure(figsize=(6, 4))
         plt.plot(np.arange(0, num_steps_in_seq) / STEPS_PER_DAY,
                  real_values[sample_id, :, 0],
                  color='k')
