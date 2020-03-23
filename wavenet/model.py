@@ -94,6 +94,15 @@ def build_wavenet_model(model_dim, max_dilation_factor):
     return model
 
 
+def build_rnn_model(model_dims):  # an alternative model, for comparison only
+    return tf.keras.models.Sequential([
+                tf.keras.layers.Dense(units=model_dims, activation='relu', input_shape=(None, 1)),
+                tf.keras.layers.LSTM(units=model_dims, return_sequences=True),
+                tf.keras.layers.Dense(units=model_dims, activation='relu'),
+                tf.keras.layers.Dense(units=1, activation=None)
+           ])
+
+
 @tf.function
 def train_step(model, optimizer, inputs, targets,
                batch_size, num_burn_in_steps, num_steps_in_seq):
@@ -146,14 +155,16 @@ def display_predictions(real_values, predicted_values, demo_size, num_burn_in_st
         plt.clf()
 
 
-def run(days_per_seq, num_burn_in_days, model_dims, num_epochs, batch_size, demo_size,
+def run(model_type, days_per_seq, num_burn_in_days, model_dims, num_epochs, batch_size, demo_size,
         save_path_prefix):
     '''
     Train autoregressive WaveNet model to forecast temperatures.
     
+    :param model_type: name of model ('wavenet' or 'rnn')
     :param days_per_seq: number of days in each time series chunk
     :param num_burn_in_days: number of days to use as burn-in
-    :param model_dims: number of filters in the causal dilated convolutional layers
+    :param model_dims: number of filters in the causal dilated convolutional layers /
+                       number of units in dense layers
     :param num_epochs: number of training epochs
     :param batch_size: size of training batch
     :param demo_size: number of predictions to display at demo time
@@ -171,7 +182,12 @@ def run(days_per_seq, num_burn_in_days, model_dims, num_epochs, batch_size, demo
     while 2 * max_dilation_factor <= num_burn_in_steps // 2:
         max_dilation_factor *= 2
     
-    model = build_wavenet_model(model_dims, max_dilation_factor)
+    if model_type == 'wavenet':
+        model = build_wavenet_model(model_dims, max_dilation_factor)
+    elif model_type == 'rnn':
+        model = build_rnn_model(model_dims)
+    else:
+        raise ValueError('Unrecognised model name: {}'.format(model_type))
     
     # Training
     optimizer = tf.keras.optimizers.Adam()
@@ -199,9 +215,11 @@ def run(days_per_seq, num_burn_in_days, model_dims, num_epochs, batch_size, demo
     
     
 if __name__ == '__main__':
-    save_path_prefix = sys.argv[1]
+    model_type = sys.argv[1]
+    save_path_prefix = sys.argv[2]
     
-    run(days_per_seq=6,
+    run(model_type=model_type,
+        days_per_seq=6,
         num_burn_in_days=4,
         model_dims=32,
         num_epochs=50,
